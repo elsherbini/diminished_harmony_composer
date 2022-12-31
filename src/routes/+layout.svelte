@@ -6,4 +6,3 @@
 </script>
 
 <DarkMode btnClass={darkmodebtn} />
-<slot />
